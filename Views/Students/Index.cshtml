@@ -1,0 +1,218 @@
+﻿@model StudentListViewModel
+@{
+    ViewData["Title"] = "Student Management";
+}
+
+<div class="content-wrapper fade-in">
+
+    <!-- Header -->
+    <div class="section-header">
+        <h2><i class="fas fa-users"></i> Student Management</h2>
+        <a asp-action="Create" class="btn btn-success">
+            <i class="fas fa-plus"></i> Add Student
+        </a>
+    </div>
+
+    <!-- Stats -->
+    <div class="stats-grid">
+        <div class="stat-card">
+            <div class="stat-icon bg-blue">
+                <i class="fas fa-users"></i>
+            </div>
+            <div class="stat-info">
+                <h3>@Model.TotalCount</h3>
+                <p>Total Students</p>
+            </div>
+        </div>
+
+        <div class="stat-card">
+            <div class="stat-icon bg-green">
+                <i class="fas fa-user-check"></i>
+            </div>
+            <div class="stat-info">
+                <h3>@Model.Students.Count(s => s.EnrolmentStatus == "Active")</h3>
+                <p>Active</p>
+            </div>
+        </div>
+
+        <div class="stat-card">
+            <div class="stat-icon bg-red">
+                <i class="fas fa-user-times"></i>
+            </div>
+            <div class="stat-info">
+                <h3>@Model.Students.Count(s => s.EnrolmentStatus != "Active")</h3>
+                <p>Inactive</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Alerts -->
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            <i class="fas fa-check-circle"></i>
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    <!-- Search -->
+    <div class="dashboard-card">
+        <div class="card-body">
+            <form asp-action="Index" method="get" class="filter-bar">
+                <input type="text" name="searchTerm" class="form-control"
+                       placeholder="Search by name, email, or student ID..."
+                       value="@Model.SearchTerm" />
+
+                <button type="submit" class="btn btn-primary">
+                    <i class="fas fa-search"></i> Search
+                </button>
+
+                <a asp-action="Index" class="btn btn-secondary">
+                    Clear
+                </a>
+            </form>
+        </div>
+    </div>
+
+    <!-- Table -->
+    <div class="dashboard-card mt-4">
+        <div class="card-body">
+
+            <div class="table-responsive">
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Photo</th>
+                            <th>Student ID</th>
+                            <th>Name</th>
+                            <th>Email</th>
+                            <th>Mobile</th>
+                            <th>Status</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @if (!Model.Students.Any())
+                        {
+                            <tr>
+                                <td colspan="7" class="empty-state">
+                                    <i class="fas fa-user-graduate"></i>
+                                    <p>No students found</p>
+                                </td>
+                            </tr>
+                        }
+                        else
+                        {
+                            @foreach (var student in Model.Students)
+                            {
+                                <tr>
+                                    <td>
+                                        @if (!string.IsNullOrEmpty(student.ProfileImageSasUrl))
+                                        {
+                                            <img src="@student.ProfileImageSasUrl"
+                                                 style="width:50px;height:50px;border-radius:50%;object-fit:cover;" />
+                                        }
+                                        else
+                                        {
+                                            <div class="user-avatar">
+                                                @student.FullName[0]
+                                            </div>
+                                        }
+                                    </td>
+
+                                    <td><code>@student.Id</code></td>
+                                    <td>@student.FullName</td>
+                                    <td>@student.Email</td>
+                                    <td>@student.MobileNumber</td>
+
+                                    <td>
+                                        <span class="status-badge @(student.EnrolmentStatus == "Active" ? "status-active" : "status-ended")">
+                                            @student.EnrolmentStatus
+                                        </span>
+                                    </td>
+
+                                    <td>
+                                        <div class="action-btns">
+
+                                            <a asp-action="Edit" asp-route-id="@student.Id"
+                                                   class="btn btn-primary btn-sm">
+                                                <i class="fas fa-edit"></i>
+                                            </a>
+
+                                            <form asp-action="SoftDelete" asp-route-id="@student.Id" method="post"
+                                                  onsubmit="return confirm('Mark as inactive?');">
+                                                @Html.AntiForgeryToken()
+                                                <button class="btn btn-warning btn-sm">
+                                                    <i class="fas fa-user-slash"></i>
+                                                </button>
+                                            </form>
+
+                                            <form asp-action="HardDelete" asp-route-id="@student.Id" method="post"
+                                                  onsubmit="return confirm('DELETE permanently?');">
+                                                @Html.AntiForgeryToken()
+                                                <button class="btn btn-danger btn-sm">
+                                                    <i class="fas fa-trash"></i>
+                                                </button>
+                                            </form>
+
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Pagination -->
+            @if (Model.TotalPages > 1)
+            {
+                <div class="mt-4 text-center">
+
+                    <div class="filter-bar justify-content-center">
+
+                        @if (Model.PageNumber > 1)
+                        {
+                            <a class="btn btn-secondary"
+                                   asp-action="Index"
+                                   asp-route-pageNumber="@(Model.PageNumber - 1)"
+                                   asp-route-searchTerm="@Model.SearchTerm">
+                                Previous
+                            </a>
+                        }
+
+                        @for (int i = 1; i <= Model.TotalPages; i++)
+                        {
+                            <a class="btn @(i == Model.PageNumber ? "btn-primary" : "btn-secondary")"
+                                   asp-action="Index"
+                                   asp-route-pageNumber="@i"
+                                   asp-route-searchTerm="@Model.SearchTerm">
+                                @i
+                            </a>
+                        }
+
+                        @if (Model.PageNumber < Model.TotalPages)
+                        {
+                            <a class="btn btn-secondary"
+                                   asp-action="Index"
+                                   asp-route-pageNumber="@(Model.PageNumber + 1)"
+                                   asp-route-searchTerm="@Model.SearchTerm">
+                                Next
+                            </a>
+                        }
+
+                    </div>
+
+                    <p class="text-center mt-2">
+                        Page @Model.PageNumber of @Model.TotalPages
+                    </p>
+
+                </div>
+            }
+
+        </div>
+    </div>
+
+</div>

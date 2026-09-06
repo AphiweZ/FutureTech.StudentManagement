@@ -1,0 +1,807 @@
+﻿'FutureTech.StudentManagement.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Private.CoreLib.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\FutureTech.StudentManagement.dll'. Symbols loaded.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Runtime.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'c:\program files\microsoft visual studio\18\community\common7\ide\extensions\microsoft\managedprojectsystem\HotReload\net10.0\Microsoft.Extensions.DotNetDeltaApplier.dll'. 
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Linq.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Runtime.Loader.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Console.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Collections.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Runtime.InteropServices.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Collections.Concurrent.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Threading.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.IO.Pipes.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Threading.Overlapped.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Security.AccessControl.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Security.Principal.Windows.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Security.Claims.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'c:\program files\microsoft visual studio\18\community\common7\ide\extensions\microsoft\managedprojectsystem\HotReload\net6.0\Microsoft.AspNetCore.Watch.BrowserRefresh.dll'. 
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'c:\program files\microsoft visual studio\18\community\common7\ide\extensions\microsoft\web tools\projectsystem\net7.0\Microsoft.WebTools.ApiEndpointDiscovery.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\Extensions\Microsoft\Web Tools\Browser Link\Microsoft.WebTools.BrowserLink.Net.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Hosting.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.DependencyInjection.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Logging.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Diagnostics.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Configuration.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Authentication.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Http.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Routing.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.ComponentModel.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Features.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Mvc.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Mvc.Core.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Http.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Authentication.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Authentication.Cookies.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Configuration.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Primitives.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Authorization.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Authorization.Policy.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Hosting.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.HttpsPolicy.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.StaticFiles.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Diagnostics.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\Microsoft.ApplicationInsights.AspNetCore.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\AspNet.Security.OAuth.GitHub.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Authentication.OAuth.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.Google.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\PrivateAssemblies\Runtime\Microsoft.VisualStudio.Debugger.Runtime.NetCoreApp.dll'. 
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Hosting.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Hosting.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Configuration.EnvironmentVariables.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.FileProviders.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.FileProviders.Physical.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Configuration.FileExtensions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Options.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Logging.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Diagnostics.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Diagnostics.DiagnosticSource.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Configuration.Binder.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Configuration.Json.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Memory.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.IO.FileSystem.Watcher.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.ComponentModel.Primitives.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\Microsoft.Win32.Primitives.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Text.Json.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Text.Encoding.Extensions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.IO.Pipelines.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Configuration.UserSecrets.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Razor.Runtime.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Logging.EventLog.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Logging.Configuration.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Options.ConfigurationExtensions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Logging.Console.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Logging.Debug.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Logging.EventSource.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Diagnostics.Tracing.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.DependencyInjection.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Server.Kestrel.Core.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Server.Kestrel.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Net.Quic.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Net.Sockets.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Net.Primitives.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\Microsoft.Win32.Registry.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Server.IIS.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Server.IISIntegration.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.FileProviders.Composite.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Text.Encodings.Web.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Numerics.Vectors.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Mvc.ApiExplorer.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Mvc.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Connections.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.ObjectPool.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.HostFiltering.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.HttpOverrides.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Routing.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.ObjectModel.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Mvc.Razor.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Authentication.Core.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Mvc.Cors.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Cors.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Mvc.DataAnnotations.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Mvc.ViewFeatures.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Linq.Expressions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.DataProtection.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.DataProtection.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Cryptography.Internal.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Antiforgery.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.WebEncoders.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Components.Endpoints.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Components.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Components.Authorization.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Components.Web.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.JSInterop.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Caching.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Caching.Memory.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Mvc.TagHelpers.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Razor.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\OpenTelemetry.Extensions.Hosting.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\Microsoft.ApplicationInsights.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\OpenTelemetry.Api.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\OpenTelemetry.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.IO.MemoryMappedFiles.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\Azure.Monitor.OpenTelemetry.Exporter.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\Azure.Core.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\OpenTelemetry.Instrumentation.SqlClient.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\OpenTelemetry.Instrumentation.AspNetCore.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\OpenTelemetry.Instrumentation.Http.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Collections.Immutable.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Net.Http.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.Localization.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Http.Extensions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.ComponentModel.TypeConverter.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Private.Uri.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\System.ClientModel.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Threading.Thread.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Threading.ThreadPool.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Diagnostics.Process.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\System.Diagnostics.EventLog.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Collections.Specialized.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Net.Security.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Security.Cryptography.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Net.NameResolution.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Runtime.Intrinsics.dll'. Symbol loading disabled by Include/Exclude setting.
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Net.Http.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Diagnostics.StackTrace.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Reflection.Metadata.dll'. Symbol loading disabled by Include/Exclude setting.
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Net.Http.dll
+Exception thrown: 'System.AggregateException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Net.Http.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Net.Http.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Reflection.Emit.Lightweight.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Reflection.Emit.ILGeneration.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Reflection.Primitives.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Net.Http.Headers.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Http.Features.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Runtime.Numerics.dll'. Symbol loading disabled by Include/Exclude setting.
+Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler: Debug: Initializing Razor view compiler with compiled view: '/Views/Auth/AccessDenied.cshtml'.
+Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler: Debug: Initializing Razor view compiler with compiled view: '/Views/Auth/Login.cshtml'.
+Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler: Debug: Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler: Debug: Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler: Debug: Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler: Debug: Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler: Debug: Initializing Razor view compiler with compiled view: '/Views/Students/Create.cshtml'.
+Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler: Debug: Initializing Razor view compiler with compiled view: '/Views/Students/Edit.cshtml'.
+Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler: Debug: Initializing Razor view compiler with compiled view: '/Views/Students/Index.cshtml'.
+Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler: Debug: Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler: Debug: Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler: Debug: Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory: Debug: Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.ComponentModel.Annotations.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Html.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\SixLabors.ImageSharp.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\Azure.Storage.Blobs.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\Microsoft.Azure.Cosmos.Client.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\netstandard.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Metadata.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.Extensions.FileSystemGlobbing.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Xml.XDocument.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Private.Xml.Linq.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Private.Xml.dll'. Symbol loading disabled by Include/Exclude setting.
+Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager: Information: User profile is available. Using 'C:\Users\Samukelo Ngubane\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Text.RegularExpressions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Collections.NonGeneric.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\OpenTelemetry.PersistentStorage.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\OpenTelemetry.PersistentStorage.FileSystem.dll'. Symbol loading disabled by Include/Exclude setting.
+Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository: Debug: Reading data from file 'C:\Users\Samukelo Ngubane\AppData\Local\ASP.NET\DataProtection-Keys\key-e497a6b2-d46b-4ec4-8e4a-5ff07df66ae8.xml'.
+Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager: Debug: Found key {e497a6b2-d46b-4ec4-8e4a-5ff07df66ae8}.
+Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver: Debug: Considering key {e497a6b2-d46b-4ec4-8e4a-5ff07df66ae8} with expiration date 2026-07-16 13:24:41Z as default key.
+Microsoft.AspNetCore.DataProtection.TypeForwardingActivator: Debug: Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=10.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor: Debug: Decrypting secret element using Windows DPAPI.
+Microsoft.AspNetCore.DataProtection.TypeForwardingActivator: Debug: Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=10.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory: Debug: Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory: Debug: Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider: Debug: Using key {e497a6b2-d46b-4ec4-8e4a-5ff07df66ae8} as the default key.
+Microsoft.AspNetCore.DataProtection.Internal.DataProtectionHostedService: Debug: Key ring with default key {e497a6b2-d46b-4ec4-8e4a-5ff07df66ae8} was loaded during application startup.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BlazorWasmHotReloadMiddleware: Debug: Middleware loaded
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (14961 B).
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Runtime.Extensions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.Diagnostics.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware: Debug: Middleware configuration started with options: {AllowedHosts = *, AllowEmptyHosts = True, IncludeFailureMessage = True}
+Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware: Debug: Wildcard detected, all requests with hosts will be allowed.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Formats.Asn1.dll'. Symbol loading disabled by Include/Exclude setting.
+Microsoft.Hosting.Lifetime: Information: Now listening on: https://localhost:7001
+Microsoft.Hosting.Lifetime: Information: Now listening on: http://localhost:5001
+Microsoft.AspNetCore.Hosting.Diagnostics: Debug: Loaded hosting startup assembly FutureTech.StudentManagement
+Microsoft.AspNetCore.Hosting.Diagnostics: Debug: Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+Microsoft.AspNetCore.Hosting.Diagnostics: Debug: Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+Microsoft.AspNetCore.Hosting.Diagnostics: Debug: Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+Microsoft.AspNetCore.Mvc.ApiExplorer.ApiDescriptionGroupCollectionProvider: Debug: Executing API description provider 'EndpointMetadataApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v10.0.0.0.
+Microsoft.AspNetCore.Mvc.ApiExplorer.ApiDescriptionGroupCollectionProvider: Debug: Executing API description provider 'DefaultApiDescriptionProvider' from assembly Microsoft.AspNetCore.Mvc.ApiExplorer v10.0.0.0.
+Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
+Microsoft.Hosting.Lifetime: Information: Content root path: C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNKVHH4N54BQ" accepted.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNKVHH4N54BQ" started.
+Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Debug: Connection id "0HNKVHH4N54BQ" received FIN.
+Exception thrown: 'System.IO.IOException' in System.Net.Security.dll
+Exception thrown: 'System.IO.IOException' in System.Private.CoreLib.dll
+Exception thrown: 'System.IO.IOException' in System.Private.CoreLib.dll
+Exception thrown: 'System.IO.IOException' in System.Net.Security.dll
+Exception thrown: 'System.IO.IOException' in System.Private.CoreLib.dll
+Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware: Debug: Failed to authenticate HTTPS connection.
+
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNKVHH4N54BQ" stopped.
+Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Debug: Connection id "0HNKVHH4N54BQ" sending FIN because: "The Socket transport's send loop completed gracefully."
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNKVHH4N54BR" accepted.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNKVHH4N54BR" started.
+Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware: Debug: Connection 0HNKVHH4N54BR established using the following protocol: Tls13
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Threading.Channels.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Net.WebSockets.dll'. Symbol loading disabled by Include/Exclude setting.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/ - - -
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Threading.Tasks.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\System.Memory.Data.dll'. Symbol loading disabled by Include/Exclude setting.
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: The request path / does not match a supported file type
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 1 candidate(s) found for the request path '/'
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: Endpoint 'FutureTech.StudentManagement.Controllers.HomeController.Index (FutureTech.StudentManagement)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint 'FutureTech.StudentManagement.Controllers.HomeController.Index (FutureTech.StudentManagement)'
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\10.0.5\Microsoft.AspNetCore.WebUtilities.dll'. Symbol loading disabled by Include/Exclude setting.
+Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler: Debug: AuthenticationScheme: Cookies was successfully authenticated.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint 'FutureTech.StudentManagement.Controllers.HomeController.Index (FutureTech.StudentManagement)'
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'Anonymously Hosted DynamicMethods Assembly'. 
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller FutureTech.StudentManagement.Controllers.HomeController (FutureTech.StudentManagement).
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of authorization filters (in the following order): None
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of exception filters (in the following order): None
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Executing controller factory for controller FutureTech.StudentManagement.Controllers.HomeController (FutureTech.StudentManagement)
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Executed controller factory for controller FutureTech.StudentManagement.Controllers.HomeController (FutureTech.StudentManagement)
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executing action method FutureTech.StudentManagement.Controllers.HomeController.Index (FutureTech.StudentManagement) - Validation state: Valid
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action method FutureTech.StudentManagement.Controllers.HomeController.Index (FutureTech.StudentManagement), returned result Microsoft.AspNetCore.Mvc.RedirectToActionResult in 1.2283ms.
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Index],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students
+Microsoft.AspNetCore.Mvc.RedirectToActionResult: Information: Executing RedirectResult, redirecting to /Students.
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action FutureTech.StudentManagement.Controllers.HomeController.Index (FutureTech.StudentManagement) in 29.6928ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executed endpoint 'FutureTech.StudentManagement.Controllers.HomeController.Index (FutureTech.StudentManagement)'
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/ - 302 - - 201.3245ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/Students - - -
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: The request path /Students does not match a supported file type
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 1 candidate(s) found for the request path '/Students'
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: Endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/Students'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement)'
+Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler: Debug: AuthenticationScheme: Cookies was successfully authenticated.
+Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: Debug: Authorization was successful.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement)'
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Route matched with {action = "Index", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, Int32) on controller FutureTech.StudentManagement.Controllers.StudentsController (FutureTech.StudentManagement).
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of authorization filters (in the following order): None
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of exception filters (in the following order): None
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Executing controller factory for controller FutureTech.StudentManagement.Controllers.StudentsController (FutureTech.StudentManagement)
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\Microsoft.Azure.Cosmos.Direct.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Diagnostics.TraceSource.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Data.Common.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Threading.Tasks.Extensions.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\Newtonsoft.Json.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Runtime.InteropServices.RuntimeInformation.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Xml.ReaderWriter.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Net.WebClient.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Net.Requests.dll'. Symbol loading disabled by Include/Exclude setting.
+DocDBTrace Information: 0 : Initializing VM Metadata API 
+DocDBTrace Information: 0 : Loading VM Metadata
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Buffers.dll'. Symbol loading disabled by Include/Exclude setting.
+DocDBTrace Information: 0 : DocumentClient with id 1 initialized at endpoint: https://futuretechcosmos-db.documents.azure.com/ with ConnectionMode: Direct, connection Protocol: Tcp, and consistency level: null
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\Microsoft.Azure.Cosmos.Core.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Runtime.CompilerServices.Unsafe.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll'. Symbol loading disabled by Include/Exclude setting.
+DocDBTrace Information: 0 : SystemUsageMonitor started
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Runtime.Serialization.Formatters.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Runtime.Serialization.Primitives.dll'. Symbol loading disabled by Include/Exclude setting.
+DocDBTrace Information: 0 : Current WriteEndpoints = (https://futuretechcosmos-db-switzerlandnorth.documents.azure.com/) ReadEndpoints = (https://futuretechcosmos-db-switzerlandnorth.documents.azure.com/)
+DocDBTrace Information: 0 : GlobalEndpointManager: StartLocationBackgroundRefreshWithTimer() refreshing locations
+DocDBTrace Information: 0 : Creating RNTBD TransportClient with options Rntbd.TransportClient.Options
+  OpenTimeout: 00:00:05
+  RequestTimeout: 00:00:06
+  TimerPoolResolution: 00:00:01
+  MaxChannels: 65535
+  PartitionCount: 1
+  MaxRequestsPerChannel: 30
+  ReceiveHangDetectionTime: 00:01:05
+  SendHangDetectionTime: 00:00:10
+  IdleTimeout: -00:00:01
+  UserAgent: cosmos-netstandard-sdk/3.58.0|1|X64|Microsoft Windows 10.0.26100|.NET 10.0.5|N| Suffix: 
+  CertificateHostNameOverride: 
+  LocalRegionTimeout: 00:00:05
+  EnableChannelMultiplexing: False
+  MaxConcurrentOpeningConnectionCount: 5
+  Use_RecyclableMemoryStream: False
+  Use_CustomDnsResolution: False
+  IsDistributedTracingEnabled: False
+
+DocDBTrace Information: 0 : TimerPool Created with minSupportedTimerDelayInSeconds = 1
+DocDBTrace Information: 0 : Creating RNTBD TransportClient with options Rntbd.TransportClient.Options
+  OpenTimeout: 00:00:05
+  RequestTimeout: 00:00:06
+  TimerPoolResolution: 00:00:01
+  MaxChannels: 65535
+  PartitionCount: 1
+  MaxRequestsPerChannel: 1
+  ReceiveHangDetectionTime: 00:01:05
+  SendHangDetectionTime: 00:00:10
+  IdleTimeout: -00:00:01
+  UserAgent: cosmos-netstandard-sdk/3.58.0|1|X64|Microsoft Windows 10.0.26100|.NET 10.0.5|N| Suffix: 
+  CertificateHostNameOverride: 
+  LocalRegionTimeout: 00:00:05
+  EnableChannelMultiplexing: False
+  MaxConcurrentOpeningConnectionCount: 5
+  Use_RecyclableMemoryStream: False
+  Use_CustomDnsResolution: False
+  IsDistributedTracingEnabled: False
+
+DocDBTrace Information: 0 : TimerPool Created with minSupportedTimerDelayInSeconds = 1
+DocDBTrace Information: 0 : Resolving Master service address, forceMasterRefresh: False, currentMaster: 
+Exception thrown: 'System.OperationCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.OperationCanceledException' in System.Net.Http.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Net.Http.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.IO.IOException' in System.Net.Sockets.dll
+Exception thrown: 'System.IO.IOException' in System.Private.CoreLib.dll
+Exception thrown: 'System.IO.IOException' in System.Net.Security.dll
+Exception thrown: 'System.IO.IOException' in System.Private.CoreLib.dll
+Exception thrown: 'System.IO.IOException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Net.Http.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Net.Http.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Net.Http.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Net.Http.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+DocDBTrace Information: 0 : Opened 1 channels to server rntbd://cdb-ms-prod-switzerlandnorth1-be11.documents.azure.com:11314/
+DocDBTrace Information: 0 : [RNTBD Channel 6be9e18c-3d1e-40cd-92f6-f38ac4f9c1f8] Awaiting RNTBD channel initialization. Request URI: rntbd://cdb-ms-prod-switzerlandnorth1-be11.documents.azure.com:11314/apps/1ddfc951-8bf3-49eb-a4b4-a141db7bb10a/services/7bc9698e-78c2-4a36-9972-e20621e7fc34/partitions/79d6bf25-ae24-4071-88b4-2f7c8cee5b43/replicas/134207295147176864s/
+DocDBTrace Information: 0 : Opened 1 channels to server rntbd://cdb-ms-prod-switzerlandnorth1-be11.documents.azure.com:11311/
+DocDBTrace Information: 0 : [RNTBD Channel 32346b3d-55d7-4ea4-90c8-f67c15629cf9] Awaiting RNTBD channel initialization. Request URI: rntbd://cdb-ms-prod-switzerlandnorth1-be11.documents.azure.com:11311/apps/1ddfc951-8bf3-49eb-a4b4-a141db7bb10a/services/7bc9698e-78c2-4a36-9972-e20621e7fc34/partitions/79d6bf25-ae24-4071-88b4-2f7c8cee5b43/replicas/134207295147176865s/
+DocDBTrace Information: 0 : [RNTBD Connection 32346b3d-55d7-4ea4-90c8-f67c15629cf9] Port reuse mode: ReuseUnicastPort. Connection: <not connected> -> rntbd://cdb-ms-prod-switzerlandnorth1-be11.documents.azure.com:11311/
+DocDBTrace Information: 0 : [RNTBD Connection 6be9e18c-3d1e-40cd-92f6-f38ac4f9c1f8] Port reuse mode: ReuseUnicastPort. Connection: <not connected> -> rntbd://cdb-ms-prod-switzerlandnorth1-be11.documents.azure.com:11314/
+DocDBTrace Information: 0 : [RNTBD Connection 6be9e18c-3d1e-40cd-92f6-f38ac4f9c1f8] ConnectUnicastPortAsync connecting to rntbd://cdb-ms-prod-switzerlandnorth1-be11.documents.azure.com:11314/ (address 51.107.52.226)
+DocDBTrace Information: 0 : [RNTBD Connection 32346b3d-55d7-4ea4-90c8-f67c15629cf9] ConnectUnicastPortAsync connecting to rntbd://cdb-ms-prod-switzerlandnorth1-be11.documents.azure.com:11311/ (address 51.107.52.226)
+DocDBTrace Information: 0 : [RNTBD Connection 32346b3d-55d7-4ea4-90c8-f67c15629cf9] RNTBD connection established 192.168.43.129:57434 -> 51.107.52.226:11311
+DocDBTrace Information: 0 : [RNTBD Connection 6be9e18c-3d1e-40cd-92f6-f38ac4f9c1f8] RNTBD connection established 192.168.43.129:57433 -> 51.107.52.226:11314
+DocDBTrace Information: 0 : [RNTBD Connection 6be9e18c-3d1e-40cd-92f6-f38ac4f9c1f8] SSL handshake complete 192.168.43.129:57433 -> 51.107.52.226:11314
+DocDBTrace Information: 0 : [RNTBD Connection 32346b3d-55d7-4ea4-90c8-f67c15629cf9] SSL handshake complete 192.168.43.129:57434 -> 51.107.52.226:11311
+Exception thrown: 'System.OperationCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.OperationCanceledException' in System.Net.Http.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Net.Http.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+The thread '.NET Long Running Task' (23380) has exited with code 0 (0x0).
+The thread '.NET Long Running Task' (12644) has exited with code 0 (0x0).
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll'. Symbol loading disabled by Include/Exclude setting.
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\bin\Debug\net10.0\Azure.Storage.Common.dll'. Symbol loading disabled by Include/Exclude setting.
+Exception thrown: 'Azure.RequestFailedException' in Azure.Storage.Blobs.dll
+Exception thrown: 'Azure.RequestFailedException' in Azure.Storage.Blobs.dll
+Exception thrown: 'Azure.RequestFailedException' in System.Private.CoreLib.dll
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Executed controller factory for controller FutureTech.StudentManagement.Controllers.StudentsController (FutureTech.StudentManagement)
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Attempting to bind parameter 'searchTerm' of type 'System.String' ...
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Attempting to bind parameter 'searchTerm' of type 'System.String' using the name '' in request data ...
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Could not find a value in the request with name '' for binding parameter 'searchTerm' of type 'System.String'.
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Done attempting to bind parameter 'searchTerm' of type 'System.String'.
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Done attempting to bind parameter 'searchTerm' of type 'System.String'.
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Attempting to validate the bound parameter 'searchTerm' of type 'System.String' ...
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Done attempting to validate the bound parameter 'searchTerm' of type 'System.String'.
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Attempting to bind parameter 'pageNumber' of type 'System.Int32' ...
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Attempting to bind parameter 'pageNumber' of type 'System.Int32' using the name '' in request data ...
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Could not find a value in the request with name '' for binding parameter 'pageNumber' of type 'System.Int32'.
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Done attempting to bind parameter 'pageNumber' of type 'System.Int32'.
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Done attempting to bind parameter 'pageNumber' of type 'System.Int32'.
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Attempting to validate the bound parameter 'pageNumber' of type 'System.Int32' ...
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Done attempting to validate the bound parameter 'pageNumber' of type 'System.Int32'.
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executing action method FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement) - Validation state: Valid
+DocDBTrace Information: 0 : MetadataRequestThrottleRetryPolicy: Routing the metadata request to: https://futuretechcosmos-db-switzerlandnorth.documents.azure.com/ for operation type: ReadFeed and resource type: PartitionKeyRange for collection:  with collection rid 1L5vAMhV5Aw=.
+DocDBTrace Information: 0 : PartitionKeyRangeCache GetRoutingMapForCollectionAsync collectionRid: 1L5vAMhV5Aw=, StatusCode: OK, SubstatusCode Unknown, request Etag , response ETag: "9", RegionsContacted 
+DocDBTrace Information: 0 : MetadataRequestThrottleRetryPolicy: Routing the metadata request to: https://futuretechcosmos-db-switzerlandnorth.documents.azure.com/ for operation type: ReadFeed and resource type: PartitionKeyRange for collection:  with collection rid 1L5vAMhV5Aw=.
+DocDBTrace Information: 0 : PartitionKeyRangeCache GetRoutingMapForCollectionAsync collectionRid: 1L5vAMhV5Aw=, StatusCode: NotModified, SubstatusCode Unknown, request Etag "9", response ETag: "9", RegionsContacted 
+DocDBTrace Information: 0 : Added address to serverPartitionAddressToPkRangeIdMap, collectionRid :1L5vAMhV5Aw=, pkRangeId: 0, address: rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14110/apps/a8f41d30-eabd-4ef1-b3b6-8fdb519419c5/services/c049e8a2-a28d-4d42-b076-2dacfd7f5e29/partitions/2d6f7e27-c76d-40d5-8497-14cac1c000c1/replicas/134206692021148290p/
+DocDBTrace Information: 0 : Added address to serverPartitionAddressToPkRangeIdMap, collectionRid :1L5vAMhV5Aw=, pkRangeId: 0, address: rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14034/apps/a8f41d30-eabd-4ef1-b3b6-8fdb519419c5/services/c049e8a2-a28d-4d42-b076-2dacfd7f5e29/partitions/2d6f7e27-c76d-40d5-8497-14cac1c000c1/replicas/134206692060996250s/
+DocDBTrace Information: 0 : Added address to serverPartitionAddressToPkRangeIdMap, collectionRid :1L5vAMhV5Aw=, pkRangeId: 0, address: rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14361/apps/a8f41d30-eabd-4ef1-b3b6-8fdb519419c5/services/c049e8a2-a28d-4d42-b076-2dacfd7f5e29/partitions/2d6f7e27-c76d-40d5-8497-14cac1c000c1/replicas/134206692060996252s/
+DocDBTrace Information: 0 : Added address to serverPartitionAddressToPkRangeIdMap, collectionRid :1L5vAMhV5Aw=, pkRangeId: 0, address: rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14411/apps/a8f41d30-eabd-4ef1-b3b6-8fdb519419c5/services/c049e8a2-a28d-4d42-b076-2dacfd7f5e29/partitions/2d6f7e27-c76d-40d5-8497-14cac1c000c1/replicas/134206692060996251s/
+DocDBTrace Information: 0 : Opened 1 channels to server rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14034/
+DocDBTrace Information: 0 : [RNTBD Channel 65c1f6f4-2d0e-430a-9376-7639f4ba2fcb] Awaiting RNTBD channel initialization. Request URI: rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14034/apps/a8f41d30-eabd-4ef1-b3b6-8fdb519419c5/services/c049e8a2-a28d-4d42-b076-2dacfd7f5e29/partitions/2d6f7e27-c76d-40d5-8497-14cac1c000c1/replicas/134206692060996250s/
+DocDBTrace Information: 0 : [RNTBD Connection 65c1f6f4-2d0e-430a-9376-7639f4ba2fcb] Port reuse mode: ReuseUnicastPort. Connection: <not connected> -> rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14034/
+DocDBTrace Information: 0 : [RNTBD Connection 65c1f6f4-2d0e-430a-9376-7639f4ba2fcb] ConnectUnicastPortAsync connecting to rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14034/ (address 20.208.151.1)
+DocDBTrace Information: 0 : [RNTBD Connection 65c1f6f4-2d0e-430a-9376-7639f4ba2fcb] RNTBD connection established 192.168.43.129:57438 -> 20.208.151.1:14034
+DocDBTrace Information: 0 : [RNTBD Connection 65c1f6f4-2d0e-430a-9376-7639f4ba2fcb] SSL handshake complete 192.168.43.129:57438 -> 20.208.151.1:14034
+The thread '.NET Long Running Task' (17316) has exited with code 0 (0x0).
+DocDBTrace Information: 0 : Opened 1 channels to server rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14361/
+DocDBTrace Information: 0 : [RNTBD Channel 131e240b-101a-4ada-831c-70f2fb422ecf] Awaiting RNTBD channel initialization. Request URI: rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14361/apps/a8f41d30-eabd-4ef1-b3b6-8fdb519419c5/services/c049e8a2-a28d-4d42-b076-2dacfd7f5e29/partitions/2d6f7e27-c76d-40d5-8497-14cac1c000c1/replicas/134206692060996252s/
+DocDBTrace Information: 0 : [RNTBD Connection 131e240b-101a-4ada-831c-70f2fb422ecf] Port reuse mode: ReuseUnicastPort. Connection: <not connected> -> rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14361/
+DocDBTrace Information: 0 : [RNTBD Connection 131e240b-101a-4ada-831c-70f2fb422ecf] ConnectUnicastPortAsync connecting to rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14361/ (address 20.208.151.1)
+DocDBTrace Information: 0 : [RNTBD Connection 131e240b-101a-4ada-831c-70f2fb422ecf] RNTBD connection established 192.168.43.129:57439 -> 20.208.151.1:14361
+DocDBTrace Information: 0 : [RNTBD Connection 131e240b-101a-4ada-831c-70f2fb422ecf] SSL handshake complete 192.168.43.129:57439 -> 20.208.151.1:14361
+The thread '.NET Long Running Task' (11304) has exited with code 0 (0x0).
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Web.HttpUtility.dll'. Symbol loading disabled by Include/Exclude setting.
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action method FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 3162.8918ms.
+Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine: Debug: View lookup cache miss for view 'Index' in controller 'Students'.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor: Information: Executing ViewResult, running view Index.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor: Debug: The view path '/Views/Students/Index.cshtml' was found in 6.6519ms.
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Create],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students/Create and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students/Create
+Microsoft.AspNetCore.Mvc.ViewFeatures.CookieTempDataProvider: Debug: The temp data cookie .AspNetCore.Mvc.CookieTempDataProvider was not found.
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Index],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Index],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (id=[A004D863512A],action=[Edit],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students/Edit/A004D863512A and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students/Edit/A004D863512A
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (id=[A004D863512A],action=[SoftDelete],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students/SoftDelete/A004D863512A and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students/SoftDelete/A004D863512A
+Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery: Debug: A new antiforgery cookie token was created.
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (id=[A004D863512A],action=[HardDelete],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students/HardDelete/A004D863512A and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students/HardDelete/A004D863512A
+Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine: Debug: View lookup cache miss for view '_Layout' in controller 'Students'.
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Index],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Create],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students/Create and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students/Create
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Logout],controller=[Auth])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Auth/Logout and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Auth/Logout
+'FutureTech.StudentManagement.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.IO.Compression.dll'. Symbol loading disabled by Include/Exclude setting.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup is scheduled to include browser refresh script injection.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor: Information: Executed ViewResult - view Index executed in 189.2049ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement) in 8371.7951ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executed endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement)'
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNKVHH4N54BS" accepted.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNKVHH4N54BS" started.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup was updated to include browser refresh script injection.
+Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware: Debug: Connection 0HNKVHH4N54BS established using the following protocol: Tls13
+Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Debug: Connection id "0HNKVHH4N54BR" received FIN.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/Students - 200 - text/html;+charset=utf-8 8444.0736ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - - -
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - - -
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=mL2ebUh8anqwIBT9Sq8ZVPcoM7VLeo3PWUzQsVCAuz0 - - -
+Microsoft.AspNetCore.Server.Kestrel.Http2: Debug: The connection queue processing loop for 0HNKVHH4N54BR completed.
+Microsoft.AspNetCore.Server.Kestrel.Http2: Debug: Connection id "0HNKVHH4N54BR" is closed. The last processed stream ID was 3.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Script injected: /_framework/aspnetcore-browser-refresh.js
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 14961 application/javascript;+charset=utf-8 72.6598ms
+Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Debug: Connection id "0HNKVHH4N54BR" sending FIN because: "The Socket transport's send loop completed gracefully."
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNKVHH4N54BR" stopped.
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Information: Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Samukelo Ngubane\Desktop\Aphiwe Project\futuretech_fixed\wwwroot\css\site.css'
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=mL2ebUh8anqwIBT9Sq8ZVPcoM7VLeo3PWUzQsVCAuz0 - 200 39070 text/css 89.0906ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 99.9492ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/Students/Create - - -
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: The request path /Students/Create does not match a supported file type
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 1 candidate(s) found for the request path '/Students/Create'
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: Endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.Create (FutureTech.StudentManagement)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/Students/Create'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.Create (FutureTech.StudentManagement)'
+Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler: Debug: AuthenticationScheme: Cookies was successfully authenticated.
+Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: Debug: Authorization was successful.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.Create (FutureTech.StudentManagement)'
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Route matched with {action = "Create", controller = "Students"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create() on controller FutureTech.StudentManagement.Controllers.StudentsController (FutureTech.StudentManagement).
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of authorization filters (in the following order): None
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of exception filters (in the following order): None
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Executing controller factory for controller FutureTech.StudentManagement.Controllers.StudentsController (FutureTech.StudentManagement)
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Executed controller factory for controller FutureTech.StudentManagement.Controllers.StudentsController (FutureTech.StudentManagement)
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executing action method FutureTech.StudentManagement.Controllers.StudentsController.Create (FutureTech.StudentManagement) - Validation state: Valid
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action method FutureTech.StudentManagement.Controllers.StudentsController.Create (FutureTech.StudentManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.3297ms.
+Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine: Debug: View lookup cache miss for view 'Create' in controller 'Students'.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor: Information: Executing ViewResult, running view Create.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor: Debug: The view path '/Views/Students/Create.cshtml' was found in 2.8034ms.
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Index],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Index],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Create],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students/Create and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students/Create
+Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery: Debug: An antiforgery cookie token was reused.
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Index],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students
+Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine: Debug: View lookup cache hit for view '_Layout' in controller 'Students'.
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Index],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Create],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students/Create and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students/Create
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Logout],controller=[Auth])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Auth/Logout and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Auth/Logout
+Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery: Debug: An antiforgery cookie token was reused.
+Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine: Debug: View lookup cache miss for view '_ValidationScriptsPartial' in controller 'Students'.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup is scheduled to include browser refresh script injection.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor: Information: Executed ViewResult - view Create executed in 89.9295ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action FutureTech.StudentManagement.Controllers.StudentsController.Create (FutureTech.StudentManagement) in 97.0986ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executed endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.Create (FutureTech.StudentManagement)'
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup was updated to include browser refresh script injection.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/Students/Create - 200 - text/html;+charset=utf-8 122.5287ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=mL2ebUh8anqwIBT9Sq8ZVPcoM7VLeo3PWUzQsVCAuz0 - - -
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/lib/jquery-validation/dist/jquery.validate.min.js - - -
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - - -
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js - - -
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Information: The file /css/site.css was not modified
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Information: The file /lib/jquery-validation/dist/jquery.validate.min.js was not modified
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Information: The file /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js was not modified
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Handled. Status code: 304 File: /lib/jquery-validation/dist/jquery.validate.min.js
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Handled. Status code: 304 File: /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Script injected: /_framework/aspnetcore-browser-refresh.js
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Handled. Status code: 304 File: /css/site.css
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 14961 application/javascript;+charset=utf-8 95.5982ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js - 304 - text/javascript 96.3559ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/lib/jquery-validation/dist/jquery.validate.min.js - 304 - text/javascript 131.2573ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - - -
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=mL2ebUh8anqwIBT9Sq8ZVPcoM7VLeo3PWUzQsVCAuz0 - 304 - text/css 204.2150ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 252.1267ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/Students - - -
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: The request path /Students does not match a supported file type
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 1 candidate(s) found for the request path '/Students'
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: Endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/Students'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement)'
+Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler: Debug: AuthenticationScheme: Cookies was successfully authenticated.
+Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: Debug: Authorization was successful.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement)'
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Route matched with {action = "Index", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, Int32) on controller FutureTech.StudentManagement.Controllers.StudentsController (FutureTech.StudentManagement).
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of authorization filters (in the following order): None
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of exception filters (in the following order): None
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Executing controller factory for controller FutureTech.StudentManagement.Controllers.StudentsController (FutureTech.StudentManagement)
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Executed controller factory for controller FutureTech.StudentManagement.Controllers.StudentsController (FutureTech.StudentManagement)
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Attempting to bind parameter 'searchTerm' of type 'System.String' ...
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Attempting to bind parameter 'searchTerm' of type 'System.String' using the name '' in request data ...
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Could not find a value in the request with name '' for binding parameter 'searchTerm' of type 'System.String'.
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Done attempting to bind parameter 'searchTerm' of type 'System.String'.
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Done attempting to bind parameter 'searchTerm' of type 'System.String'.
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Attempting to validate the bound parameter 'searchTerm' of type 'System.String' ...
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Done attempting to validate the bound parameter 'searchTerm' of type 'System.String'.
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Attempting to bind parameter 'pageNumber' of type 'System.Int32' ...
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Attempting to bind parameter 'pageNumber' of type 'System.Int32' using the name '' in request data ...
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Could not find a value in the request with name '' for binding parameter 'pageNumber' of type 'System.Int32'.
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Done attempting to bind parameter 'pageNumber' of type 'System.Int32'.
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Done attempting to bind parameter 'pageNumber' of type 'System.Int32'.
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Attempting to validate the bound parameter 'pageNumber' of type 'System.Int32' ...
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Done attempting to validate the bound parameter 'pageNumber' of type 'System.Int32'.
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executing action method FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement) - Validation state: Valid
+DocDBTrace Information: 0 : Opened 1 channels to server rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14411/
+DocDBTrace Information: 0 : [RNTBD Channel a05aa4a1-65c4-4897-9aee-b04f08c27c43] Awaiting RNTBD channel initialization. Request URI: rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14411/apps/a8f41d30-eabd-4ef1-b3b6-8fdb519419c5/services/c049e8a2-a28d-4d42-b076-2dacfd7f5e29/partitions/2d6f7e27-c76d-40d5-8497-14cac1c000c1/replicas/134206692060996251s/
+DocDBTrace Information: 0 : [RNTBD Connection a05aa4a1-65c4-4897-9aee-b04f08c27c43] Port reuse mode: ReuseUnicastPort. Connection: <not connected> -> rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14411/
+DocDBTrace Information: 0 : [RNTBD Connection a05aa4a1-65c4-4897-9aee-b04f08c27c43] ConnectUnicastPortAsync connecting to rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14411/ (address 20.208.151.1)
+DocDBTrace Information: 0 : [RNTBD Connection a05aa4a1-65c4-4897-9aee-b04f08c27c43] RNTBD connection established 192.168.43.129:49673 -> 20.208.151.1:14411
+DocDBTrace Information: 0 : [RNTBD Connection a05aa4a1-65c4-4897-9aee-b04f08c27c43] SSL handshake complete 192.168.43.129:49673 -> 20.208.151.1:14411
+The thread '.NET Long Running Task' (23156) has exited with code 0 (0x0).
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action method FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1210.9724ms.
+Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine: Debug: View lookup cache hit for view 'Index' in controller 'Students'.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor: Information: Executing ViewResult, running view Index.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor: Debug: The view path '/Views/Students/Index.cshtml' was found in 1.8046ms.
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Create],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students/Create and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students/Create
+Microsoft.AspNetCore.Mvc.ViewFeatures.CookieTempDataProvider: Debug: The temp data cookie .AspNetCore.Mvc.CookieTempDataProvider was not found.
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Index],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Index],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (id=[A004D863512A],action=[Edit],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students/Edit/A004D863512A and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students/Edit/A004D863512A
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (id=[A004D863512A],action=[SoftDelete],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students/SoftDelete/A004D863512A and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students/SoftDelete/A004D863512A
+Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery: Debug: An antiforgery cookie token was reused.
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (id=[A004D863512A],action=[HardDelete],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students/HardDelete/A004D863512A and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students/HardDelete/A004D863512A
+Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery: Debug: An antiforgery cookie token was reused.
+Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine: Debug: View lookup cache hit for view '_Layout' in controller 'Students'.
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Index],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Create],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students/Create and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students/Create
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Logout],controller=[Auth])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Auth/Logout and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Auth/Logout
+Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery: Debug: An antiforgery cookie token was reused.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup is scheduled to include browser refresh script injection.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor: Information: Executed ViewResult - view Index executed in 32.7198ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement) in 1259.8478ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executed endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement)'
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup was updated to include browser refresh script injection.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - - -
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=mL2ebUh8anqwIBT9Sq8ZVPcoM7VLeo3PWUzQsVCAuz0 - - -
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/Students - 200 - text/html;+charset=utf-8 1357.6381ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - - -
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Information: The file /css/site.css was not modified
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Handled. Status code: 304 File: /css/site.css
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=mL2ebUh8anqwIBT9Sq8ZVPcoM7VLeo3PWUzQsVCAuz0 - 304 - text/css 75.9000ms
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Script injected: /_framework/aspnetcore-browser-refresh.js
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 14961 application/javascript;+charset=utf-8 77.3555ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 81.1781ms
+Exception thrown: 'System.Net.Sockets.SocketException' in System.Net.Sockets.dll
+Exception thrown: 'System.Net.Sockets.SocketException' in System.Net.Http.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in System.Net.Http.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in System.Net.Http.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in System.Net.Http.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in System.Net.Http.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in Microsoft.Azure.Cosmos.Client.dll
+Exception thrown: 'System.Net.Http.HttpRequestException' in System.Private.CoreLib.dll
+DocDBTrace Information: 0 : Azure Environment metadata information not available. A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. (169.254.169.254:80)
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 POST https://localhost:7001/Students/HardDelete/A004D863512A - application/x-www-form-urlencoded 225
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: POST requests are not supported
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 1 candidate(s) found for the request path '/Students/HardDelete/A004D863512A'
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: Endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.HardDelete (FutureTech.StudentManagement)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/Students/HardDelete/A004D863512A'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.HardDelete (FutureTech.StudentManagement)'
+Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler: Debug: AuthenticationScheme: Cookies was successfully authenticated.
+Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: Debug: Authorization was successful.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.HardDelete (FutureTech.StudentManagement)'
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Route matched with {action = "HardDelete", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] HardDelete(System.String) on controller FutureTech.StudentManagement.Controllers.StudentsController (FutureTech.StudentManagement).
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of authorization filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.ValidateAntiforgeryTokenAuthorizationFilter
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of exception filters (in the following order): None
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+Microsoft.AspNetCore.Server.Kestrel: Debug: Connection id "0HNKVHH4N54BS", Request id "0HNKVHH4N54BS:0000001B": started reading request body.
+Microsoft.AspNetCore.Server.Kestrel: Debug: Connection id "0HNKVHH4N54BS", Request id "0HNKVHH4N54BS:0000001B": done reading request body.
+Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery: Debug: Antiforgery successfully validated a request.
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Executing controller factory for controller FutureTech.StudentManagement.Controllers.StudentsController (FutureTech.StudentManagement)
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Executed controller factory for controller FutureTech.StudentManagement.Controllers.StudentsController (FutureTech.StudentManagement)
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Attempting to bind parameter 'id' of type 'System.String' ...
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Attempting to bind parameter 'id' of type 'System.String' using the name 'id' in request data ...
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Done attempting to bind parameter 'id' of type 'System.String'.
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Done attempting to bind parameter 'id' of type 'System.String'.
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Attempting to validate the bound parameter 'id' of type 'System.String' ...
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Done attempting to validate the bound parameter 'id' of type 'System.String'.
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executing action method FutureTech.StudentManagement.Controllers.StudentsController.HardDelete (FutureTech.StudentManagement) - Validation state: Valid
+FutureTech.StudentManagement.Services.BlobStorageService: Information: Image deleted: students/A004D863512A/b31a56585bc4446a998c78f3514db321.jpg
+DocDBTrace Information: 0 : Opened 1 channels to server rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14110/
+DocDBTrace Information: 0 : [RNTBD Channel e55cac00-5428-4b54-bdcd-30af2cb8ff9c] Awaiting RNTBD channel initialization. Request URI: rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14110/apps/a8f41d30-eabd-4ef1-b3b6-8fdb519419c5/services/c049e8a2-a28d-4d42-b076-2dacfd7f5e29/partitions/2d6f7e27-c76d-40d5-8497-14cac1c000c1/replicas/134206692021148290p/
+DocDBTrace Information: 0 : [RNTBD Connection e55cac00-5428-4b54-bdcd-30af2cb8ff9c] Port reuse mode: ReuseUnicastPort. Connection: <not connected> -> rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14110/
+DocDBTrace Information: 0 : [RNTBD Connection e55cac00-5428-4b54-bdcd-30af2cb8ff9c] ConnectUnicastPortAsync connecting to rntbd://cdb-ms-prod-switzerlandnorth1-be14.documents.azure.com:14110/ (address 20.208.151.1)
+DocDBTrace Information: 0 : [RNTBD Connection e55cac00-5428-4b54-bdcd-30af2cb8ff9c] RNTBD connection established 192.168.43.129:59211 -> 20.208.151.1:14110
+DocDBTrace Information: 0 : [RNTBD Connection e55cac00-5428-4b54-bdcd-30af2cb8ff9c] SSL handshake complete 192.168.43.129:59211 -> 20.208.151.1:14110
+The thread '.NET Long Running Task' (6956) has exited with code 0 (0x0).
+FutureTech.StudentManagement.Services.CosmosDbService: Information: Student permanently deleted: A004D863512A
+Microsoft.AspNetCore.Mvc.ViewFeatures.CookieTempDataProvider: Debug: The temp data cookie .AspNetCore.Mvc.CookieTempDataProvider was not found.
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action method FutureTech.StudentManagement.Controllers.StudentsController.HardDelete (FutureTech.StudentManagement), returned result Microsoft.AspNetCore.Mvc.RedirectToActionResult in 1542.4924ms.
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Index],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students
+Microsoft.AspNetCore.Mvc.RedirectToActionResult: Information: Executing RedirectResult, redirecting to /Students.
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action FutureTech.StudentManagement.Controllers.StudentsController.HardDelete (FutureTech.StudentManagement) in 1572.7649ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executed endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.HardDelete (FutureTech.StudentManagement)'
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 POST https://localhost:7001/Students/HardDelete/A004D863512A - 302 - - 1597.5369ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/Students - - -
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: The request path /Students does not match a supported file type
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 1 candidate(s) found for the request path '/Students'
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: Endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/Students'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement)'
+Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler: Debug: AuthenticationScheme: Cookies was successfully authenticated.
+Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: Debug: Authorization was successful.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement)'
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Route matched with {action = "Index", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, Int32) on controller FutureTech.StudentManagement.Controllers.StudentsController (FutureTech.StudentManagement).
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of authorization filters (in the following order): None
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of exception filters (in the following order): None
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Executing controller factory for controller FutureTech.StudentManagement.Controllers.StudentsController (FutureTech.StudentManagement)
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Debug: Executed controller factory for controller FutureTech.StudentManagement.Controllers.StudentsController (FutureTech.StudentManagement)
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Attempting to bind parameter 'searchTerm' of type 'System.String' ...
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Attempting to bind parameter 'searchTerm' of type 'System.String' using the name '' in request data ...
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Could not find a value in the request with name '' for binding parameter 'searchTerm' of type 'System.String'.
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Done attempting to bind parameter 'searchTerm' of type 'System.String'.
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Done attempting to bind parameter 'searchTerm' of type 'System.String'.
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Attempting to validate the bound parameter 'searchTerm' of type 'System.String' ...
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Done attempting to validate the bound parameter 'searchTerm' of type 'System.String'.
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Attempting to bind parameter 'pageNumber' of type 'System.Int32' ...
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Attempting to bind parameter 'pageNumber' of type 'System.Int32' using the name '' in request data ...
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Could not find a value in the request with name '' for binding parameter 'pageNumber' of type 'System.Int32'.
+Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder: Debug: Done attempting to bind parameter 'pageNumber' of type 'System.Int32'.
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Done attempting to bind parameter 'pageNumber' of type 'System.Int32'.
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Attempting to validate the bound parameter 'pageNumber' of type 'System.Int32' ...
+Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder: Debug: Done attempting to validate the bound parameter 'pageNumber' of type 'System.Int32'.
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executing action method FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement) - Validation state: Valid
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action method FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 517.1484ms.
+Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine: Debug: View lookup cache hit for view 'Index' in controller 'Students'.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor: Information: Executing ViewResult, running view Index.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor: Debug: The view path '/Views/Students/Index.cshtml' was found in 2.7201ms.
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Create],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students/Create and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students/Create
+Microsoft.AspNetCore.Mvc.ViewFeatures.CookieTempDataProvider: Debug: The temp data cookie .AspNetCore.Mvc.CookieTempDataProvider was used to successfully load temp data.
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Index],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Index],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students
+Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine: Debug: View lookup cache hit for view '_Layout' in controller 'Students'.
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Index],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Create],controller=[Students])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Students/Create and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Students/Create
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Logout],controller=[Auth])
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Auth/Logout and 
+Microsoft.AspNetCore.Routing.DefaultLinkGenerator: Debug: Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Auth/Logout
+Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery: Debug: An antiforgery cookie token was reused.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup is scheduled to include browser refresh script injection.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor: Information: Executed ViewResult - view Index executed in 28.2969ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement) in 586.7435ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executed endpoint 'FutureTech.StudentManagement.Controllers.StudentsController.Index (FutureTech.StudentManagement)'
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup was updated to include browser refresh script injection.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/Students - 200 - text/html;+charset=utf-8 630.0381ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - - -
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=mL2ebUh8anqwIBT9Sq8ZVPcoM7VLeo3PWUzQsVCAuz0 - - -
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - - -
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Script injected: /_framework/aspnetcore-browser-refresh.js
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Information: The file /css/site.css was not modified
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Handled. Status code: 304 File: /css/site.css
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 14961 application/javascript;+charset=utf-8 40.8552ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=mL2ebUh8anqwIBT9Sq8ZVPcoM7VLeo3PWUzQsVCAuz0 - 304 - text/css 103.5647ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 106.2673ms
+Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Debug: Connection id "0HNKVHH4N54BS" received FIN.
+Microsoft.AspNetCore.Server.Kestrel.Http2: Debug: Connection id "0HNKVHH4N54BS" is closed. The last processed stream ID was 35.
+Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Debug: Connection id "0HNKVHH4N54BS" sending FIN because: "The Socket transport's send loop completed gracefully."
+Microsoft.AspNetCore.Server.Kestrel.Http2: Debug: The connection queue processing loop for 0HNKVHH4N54BS completed.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNKVHH4N54BS" stopped.
+The program '[876] FutureTech.StudentManagement.exe' has exited with code 4294967295 (0xffffffff).

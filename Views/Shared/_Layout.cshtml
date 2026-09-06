@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - FutureTech Academy</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    @if (User.Identity?.IsAuthenticated == true)
+    {
+        var displayName = User.Identity?.Name ?? User.FindFirst(System.Security.Claims.ClaimTypes.Email)?.Value ?? "Administrator";
+        var currentPage = (ViewContext.RouteData.Values["controller"]?.ToString() ?? "").ToLower();
+        var currentAction = (ViewContext.RouteData.Values["action"]?.ToString() ?? "").ToLower();
+
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <i class="fas fa-graduation-cap"></i>
+                    <span>FutureTech</span>
+                </div>
+
+                <button class="sidebar-toggle" type="button" id="sidebarToggle">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+
+            <nav class="sidebar-nav">
+                <ul>
+                    <li class="@(currentPage == "students" && currentAction == "index" ? "active" : "")">
+                        <a asp-controller="Students" asp-action="Index">
+                            <i class="fas fa-users"></i>
+                            <span>Students</span>
+                        </a>
+                    </li>
+
+                    <li class="@(currentPage == "students" && currentAction == "create" ? "active" : "")">
+                        <a asp-controller="Students" asp-action="Create">
+                            <i class="fas fa-user-plus"></i>
+                            <span>Add Student</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+
+            <div class="sidebar-footer">
+                <div class="user-info">
+                    <div class="user-avatar">
+                        <i class="fas fa-user-shield"></i>
+                    </div>
+                    <div class="user-details">
+                        <p class="user-name">@displayName</p>
+                        <p class="user-role">Administrator</p>
+                    </div>
+                </div>
+
+                <form asp-controller="Auth" asp-action="Logout" method="post">
+                    @Html.AntiForgeryToken()
+                    <button type="submit" class="btn btn-danger btn-full">
+                        <i class="fas fa-sign-out-alt"></i> Logout
+                    </button>
+                </form>
+            </div>
+        </aside>
+
+        <div class="main-content">
+            <header class="top-navbar">
+                <h1 class="page-title">@ViewData["Title"]</h1>
+
+                <div class="navbar-right">
+                    <div class="current-time" id="currentTime"></div>
+                </div>
+            </header>
+
+            @RenderBody()
+        </div>
+    }
+    else
+    {
+        <main>
+            @RenderBody()
+        </main>
+    }
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    <script>
+        const sidebar = document.getElementById("sidebar");
+        const sidebarToggle = document.getElementById("sidebarToggle");
+        const currentTime = document.getElementById("currentTime");
+
+        if (sidebarToggle && sidebar) {
+        sidebarToggle.addEventListener("click", function () {
+        sidebar.classList.toggle("collapsed");
+        });
+        }
+
+        function updateTime() {
+        if (!currentTime) return;
+
+        const now = new Date();
+        currentTime.textContent = now.toLocaleString([], {
+        dateStyle: "medium",
+        timeStyle: "short"
+        });
+        }
+
+        updateTime();
+        setInterval(updateTime, 1000);
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

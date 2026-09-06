@@ -1,0 +1,73 @@
+@{
+    ViewData["Title"] = "Admin Login";
+    var returnUrl = ViewData["ReturnUrl"]?.ToString() ?? "/Students";
+    var googleEnabled = (bool?)ViewData["GoogleEnabled"] == true;
+    var gitHubEnabled = (bool?)ViewData["GitHubEnabled"] == true;
+}
+
+<div class="auth-page">
+    <div class="auth-container">
+        <div class="auth-card fade-in">
+
+            <div class="auth-header">
+                <div class="logo">
+                    <i class="fas fa-graduation-cap"></i>
+                    <h1>FutureTech Academy</h1>
+                </div>
+                <p class="subtitle">Secure administrator access to the student management system</p>
+            </div>
+
+            @if (TempData["ErrorMessage"] != null)
+            {
+                <div class="alert alert-error mb-4">
+                    <i class="fas fa-exclamation-circle"></i>
+                    @TempData["ErrorMessage"]
+                </div>
+            }
+
+            @if (!googleEnabled && !gitHubEnabled)
+            {
+                <div class="alert alert-warning mb-0">
+                    <i class="fas fa-triangle-exclamation"></i>
+                    No OAuth provider is configured yet. Add Google and/or GitHub client credentials in configuration.
+                </div>
+            }
+            else
+            {
+                <div class="auth-form">
+
+                    @if (googleEnabled)
+                    {
+                        <a asp-action="ExternalLogin"
+                               asp-route-provider="Google"
+                               asp-route-returnUrl="@returnUrl"
+                               class="btn btn-primary btn-full">
+                            <i class="fab fa-google"></i>
+                            Sign in with Google
+                        </a>
+                    }
+
+                    @if (gitHubEnabled)
+                    {
+                        <a asp-action="ExternalLogin"
+                               asp-route-provider="GitHub"
+                               asp-route-returnUrl="@returnUrl"
+                               class="btn btn-secondary btn-full">
+                            <i class="fab fa-github"></i>
+                            Sign in with GitHub
+                        </a>
+                    }
+
+                </div>
+            }
+
+            <div class="auth-footer">
+                <p class="mb-0">
+                    <i class="fas fa-shield-alt"></i>
+                    Protected by OAuth 2.0 authentication
+                </p>
+            </div>
+
+        </div>
+    </div>
+</div>

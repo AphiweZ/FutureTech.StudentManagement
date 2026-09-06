@@ -1,0 +1,128 @@
+﻿@model EditStudentViewModel
+@{
+    ViewData["Title"] = "Edit Student";
+}
+
+<div class="content-wrapper fade-in">
+
+    <div class="breadcrumb">
+        <a asp-action="Index">Students</a>
+        <i class="fas fa-chevron-right"></i>
+        <span>Edit Student</span>
+    </div>
+
+    <div class="section-header">
+        <h2><i class="fas fa-user-edit"></i> Edit Student</h2>
+        <a asp-action="Index" class="btn btn-secondary">
+            <i class="fas fa-arrow-left"></i> Back to List
+        </a>
+    </div>
+
+    <div class="form-card">
+        <form asp-action="Edit" method="post" enctype="multipart/form-data">
+            @Html.AntiForgeryToken()
+            <input type="hidden" asp-for="Id" />
+
+            <div asp-validation-summary="ModelOnly" class="alert alert-error mb-4"></div>
+
+            <div class="form-section">
+                <h3><i class="fas fa-id-card"></i> Student Information</h3>
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label asp-for="FirstName">
+                            <i class="fas fa-user"></i> First Name
+                        </label>
+                        <input asp-for="FirstName" class="form-control" placeholder="Enter first name" />
+                        <span asp-validation-for="FirstName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="LastName">
+                            <i class="fas fa-user"></i> Last Name
+                        </label>
+                        <input asp-for="LastName" class="form-control" placeholder="Enter last name" />
+                        <span asp-validation-for="LastName" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label asp-for="Email">
+                            <i class="fas fa-envelope"></i> Email Address
+                        </label>
+                        <input asp-for="Email" type="email" class="form-control" placeholder="student@example.com" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="MobileNumber">
+                            <i class="fas fa-phone"></i> Mobile Number
+                        </label>
+                        <input asp-for="MobileNumber" class="form-control" placeholder="+1234567890" />
+                        <span asp-validation-for="MobileNumber" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label asp-for="EnrolmentStatus">
+                            <i class="fas fa-user-check"></i> Enrolment Status
+                        </label>
+                        <select asp-for="EnrolmentStatus" class="form-control"
+                                asp-items="Html.GetEnumSelectList<EnrolmentStatus>()"></select>
+                        <span asp-validation-for="EnrolmentStatus" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-section">
+                <h3><i class="fas fa-image"></i> Student Photo</h3>
+
+                @if (!string.IsNullOrEmpty(Model.ExistingImageSasUrl))
+                {
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>
+                                <i class="fas fa-camera"></i> Current Photo
+                            </label>
+                            <div style="padding: 1rem; background: var(--gray-50); border-radius: var(--radius); border: 1px solid var(--border-color);">
+                                <img src="@Model.ExistingImageSasUrl"
+                                     alt="Current student photo"
+                                     style="max-height: 160px; border-radius: 12px; object-fit: cover;" />
+                            </div>
+                        </div>
+                    </div>
+                }
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label asp-for="NewProfileImage">
+                            <i class="fas fa-upload"></i> Update Photo
+                        </label>
+                        <input asp-for="NewProfileImage" type="file" class="form-control" accept=".jpg,.jpeg,.png" />
+                        <p class="mb-0" style="font-size: 0.875rem;">
+                            Leave empty to keep the current photo. A new upload will replace the existing image.
+                        </p>
+                        <span asp-validation-for="NewProfileImage" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-actions">
+                <a asp-action="Index" class="btn btn-secondary">
+                    <i class="fas fa-times"></i> Cancel
+                </a>
+
+                <button type="submit" class="btn btn-primary">
+                    <i class="fas fa-save"></i> Update Student
+                </button>
+            </div>
+        </form>
+    </div>
+
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
